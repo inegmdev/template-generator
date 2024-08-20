@@ -1,0 +1,9 @@
+{
+  "functions" : 
+  [
+    {
+      "function_name" : "func_foo",
+      "function_prototype" : "void func_foo (void)"
+    }
+  ]
+}

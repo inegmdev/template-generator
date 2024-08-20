@@ -1,0 +1,11 @@
+{
+  "main_dev_path" : "..",
+  "script" : "Core/generate.py",
+  "commands": [
+      {
+          "template": "Config/InTemplates",
+          "data": "Config/Data/data.json",
+          "output": "__OUT/File.c"
+      }
+  ]
+}
